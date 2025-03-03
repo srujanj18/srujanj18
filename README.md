@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Srujan
+ 👋 Hi, I’m Srujan
 
 🚀 About Me
 👀 Passionate about AI & ML, Software Development, and Generative AI
