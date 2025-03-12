@@ -16,7 +16,7 @@
 
 💼 LinkedIn: www.linkedin.com/in/srujan-acharya-8a742526a
 
-🏆 GitHub Projects: https://github.com/srujanj18/CHATBOT https://github.com/srujanj18/Health_Assistant_Bot
+🏆 GitHub Projects: https://github.com/srujanj18?tab=repositories
 
 ⚡ Fun Fact
 I love experimenting with AI-driven applications!
