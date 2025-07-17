@@ -18,8 +18,5 @@
 
 🏆 GitHub Projects: https://github.com/srujanj18?tab=repositories
 
-⚡ Fun Fact
-I love experimenting with AI-driven applications!
-
 ✨ Let's build the future of AI together! 🚀
 
